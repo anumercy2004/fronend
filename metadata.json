@@ -1,0 +1,7 @@
+{
+  "name": "UniVerse – All-in-One Digital Hub",
+  "description": "A modern, responsive all-in-one digital platform unifying shopping, entertainment, OTT movies, casual gaming, digital services, and social connection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,8 @@
+/* Bootstrap 5 CSS */
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+/* Bootstrap Icons */
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+/* LearnSphere Custom Styles */
+@import "./styles/App.css";
